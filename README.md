@@ -7,8 +7,8 @@
 系級：科技系2年級
 
 ## 課程筆記區
-### Week 1
-### Week 2 / Introduction
+### Week 1 / Introduction
+### Week 2 / 靜態網頁
 #### HTML
 * h1
 * p
