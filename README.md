@@ -15,6 +15,7 @@ After creating a new repo
 Go to Settings 
 Go to Pages
 Branch → Choose the main branch (Remember to upload the files first)
+You can also get your link here.
 #### Girhub Desktop
 Click Clone Repo
 Paste the URL
