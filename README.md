@@ -7,6 +7,12 @@
 系級：科技系2年級
 
 ## 課程筆記區
+### Week 1
+### Week 2 / Introduction
+#### HTML
+* h1
+* p
+* table
 ## 作業連結區
 ## 專題連結區
 
