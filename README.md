@@ -21,8 +21,11 @@
 * Paste the URL
 * After Connecting, you can put files in it.
 ## 作業連結區
-### Homework1
+### Homework1 - My Website
 [My Website](https://knyliu.github.io/myweb/)
+
+### Homework2 - CRUD in Web App
+[YouTube Video](https://youtu.be/CdIlyaEeyC8)  Beginners CRUD Tutorial - ReactS, MySQL, NodeJS
 
 ## 專題連結區
 
