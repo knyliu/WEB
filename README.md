@@ -27,6 +27,9 @@
 ### Homework2 - CRUD in Web App
 [YouTube Video](https://youtu.be/CdIlyaEeyC8)  Beginners CRUD Tutorial - ReactS, MySQL, NodeJS
 
+### Homework3 - JavaScript Project
+[YouTube Video](https://youtu.be/vQz5eZMS8Ao)  GPT in Web App - Mistral AI
+
 ## 專題連結區
 
 
