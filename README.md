@@ -30,6 +30,14 @@
 ### Homework3 - JavaScript Project
 [YouTube Video](https://youtu.be/vQz5eZMS8Ao)  GPT in Web App - Mistral AI
 
+### Homework4 - Azure Deployment
+[YouTube Video](https://youtu.be/jVZzB2lIQ-c)  Deploy A Static Website to Azure - Basic CI/CD
+
+[Personal Website Link](https://agreeable-mud-0c42a5900.4.azurestaticapps.net)
+
+[HTMatplotLib Website Link](https://gray-field-024d02e00.4.azurestaticapps.net)
+
+
 ## 專題連結區
 
 
