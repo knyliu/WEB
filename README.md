@@ -30,12 +30,48 @@
 ### Homework3 - JavaScript Project
 [YouTube Video](https://youtu.be/vQz5eZMS8Ao)  GPT in Web App - Mistral AI
 
-### Homework4 - Azure Deployment
+### Homework4 - Azure Deployment - Static Website
 [YouTube Video](https://youtu.be/jVZzB2lIQ-c)  Deploy A Static Website to Azure - Basic CI/CD
 
 [Personal Website Link](https://agreeable-mud-0c42a5900.4.azurestaticapps.net)
 
 [HTMatplotLib Website Link](https://gray-field-024d02e00.4.azurestaticapps.net)
+
+### Homework4 - Azure Deployment - MERN Web App
+[YouTube Video](https://youtu.be/mYV9xWF1gEg)  Deploying a MERN Web App to Azure: A Detailed Step-by-Step Guide
+
+* Deploy MERN Web App to Azure
+* Steps:
+  
+      1. Create a Web App Service on Azure.
+  
+      2. Set the Configuration:
+  
+         - KEY: MONGO_URI
+  
+         - VALUE: Use the connection string from MongoDB.
+  
+      3. Configure Network Access - IP Address:
+  
+         - Allow access from 0.0.0.0 (all IP addresses).
+  
+      4. Edit the Code:
+  
+         - Change the baseUrl.
+  
+         - Create a .env file and add MONGO_URI="Your MongoDB connection string".
+  
+         - Build the project using npm run build.
+  
+         - Edit index.html to update the title.
+  
+      5. Push the Code to GitHub:
+  
+         - Note: You don’t need to upload the node_modules folder.
+  
+      6. Set up the Deployment Center:
+  
+         - Change the Provider to App service build service.
 
 
 ## 專題連結區
