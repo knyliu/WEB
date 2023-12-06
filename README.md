@@ -40,6 +40,8 @@
 ### Homework4 - Azure Deployment - MERN Web App
 [YouTube Video](https://youtu.be/mYV9xWF1gEg)  Deploying a MERN Web App to Azure: A Detailed Step-by-Step Guide
 
+[MERN Web App Link](https://customerservicedata.azurewebsites.net)
+
 * Deploy MERN Web App to Azure
 * Steps:
   
